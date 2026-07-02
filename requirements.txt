@@ -1,6 +1,5 @@
 python-telegram-bot
 requests
 flask
-MetaTrader5
 yfinance
 pandas
